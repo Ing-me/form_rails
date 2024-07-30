@@ -1,24 +1,25 @@
-# README
+# PROJECT FORMS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is about to create create some forms in Ruby on Rails where we are going to use both nearly-pure HTML and then graduating the helper methods that Rails provides. In addition we are going to follow those steps.
 
-Things you may want to cover:
+## Set up the back-end
 
-* Ruby version
+* Create the models and the migration file
 
-* System dependencies
+* Add some validations
 
-* Configuration
+* Create the controllers
 
-* Database creation
+* Create the resources
 
-* Database initialization
+## Set up the view
 
-* How to run the test suite
+* Create some forms
 
-* Services (job queues, cache servers, search engines, etc.)
+* Use Rails helper
 
-* Deployment instructions
+* Create Railsy forms with form_tag
 
-* ...
+* Railsy-er forms with form_with
+
+* Create edit form
